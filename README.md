@@ -2,15 +2,10 @@
 
 I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
 
-- 🔭 I’m currently working on nothing at the moment (basically somethings without 100% focus).
-- 🌱 I’m currently learning programming on my own, and to get IT certifications (will update my profile later when I get them).
+- 🔭 I’m currently working on Anomaly Detection with unsupervised learning in MvTec AD dataset.
 - 👯 I’m looking to collaborate on pretty much anything, just contact me!
-- 🤔 I’m looking for help with motivation to work on large projects.
-- 💬 Ask me about anything, really, I love questions!
 - 📫 How to reach me: you can contact me below...
   - leonhwlee9@gmail.com
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (JavaScript) or Stylus (CSS).
 
 
 [![Howeng98's GitHub stats](https://github-readme-stats.vercel.app/api?username=howeng98&custom_title=howeng98%27s%20GitHub%20Stats&show_icons=true&theme=synthwave)](#)
