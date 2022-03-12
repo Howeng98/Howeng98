@@ -2,16 +2,17 @@
 
 I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
 
-- 🔭 I’m currently working on Anomaly Detection with unsupervised learning in MvTec AD dataset.
-- 👯 I’m looking to collaborate on pretty much anything, just contact me!
-- 📫 How to reach me: you can contact me below...
-  - leonhwlee9@gmail.com
+- 🔭 I’m interested in Anomaly Detection with unsupervised learning, if you are interested in same topic, feel free to contact me!
+- 👯 I’m looking to collaborate on pretty much anything!
+
+### Get in Touch 
+  - 📫 [leonhwlee9@gmail.com](leonhwlee9@gmail.com)
+  - :house_with_garden: [LinkedIn](https://www.linkedin.com/in/ho-weng-lee-807749201/)
 
 
-[![Howeng98's GitHub stats](https://github-readme-stats.vercel.app/api?username=howeng98&custom_title=howeng98%27s%20GitHub%20Stats&show_icons=true&theme=synthwave)](#)
+[![Howeng98's GitHub stats](https://github-readme-stats.vercel.app/api?username=howeng98&custom_title=howeng98%27s%20GitHub%20Stats&show_icons=true&theme=vue-dark)](#) 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howeng98&exclude_repo=minecraft-classic&langs_count=10&layout=compact&theme=shades-of-purple)](#)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howeng98&exclude_repo=minecraft-classic&langs_count=10&layout=compact&theme=buefy)](#) -->
 
 
 #### Connect with me:
