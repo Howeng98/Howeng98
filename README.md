@@ -2,7 +2,7 @@
 
 I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
 
-- 🔭 I’m interested in Anomaly Detection with unsupervised learning, if you are interested in same topic, feel free to contact me!
+- 🔭 I’m interested in Defect detection, if you are interested in same topic, feel free to contact me!
 - 👯 I’m looking to collaborate on pretty much anything!
 
 ### Get in Touch 
