@@ -6,7 +6,7 @@
 
 <h2>About Me:</h2>
 
-- 🌲 I'm pursing a Master's degree in **Computer Science** at **National Tsing Hua University** in Taiwan currently.
+- 🌲 I have earned a Master’s degree in Computer Science from National Tsing Hua University, Taiwan.
 
 - 🔭 I’m interested in **Anomaly detection** / **Contrastive Learning**
 
